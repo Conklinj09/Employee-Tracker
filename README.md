@@ -34,7 +34,7 @@ undefined
 * npm run build  --this command runs all of the newly installed programs that were downloaded and unpacked from the previous command.
 * npm run start --this command runs all programs in a developer environment now that everything has been downloaded, installed, and unpacked.
 
-node index.js
+node server.js
 
 # Questions:
 
