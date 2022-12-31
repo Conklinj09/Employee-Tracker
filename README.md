@@ -26,7 +26,7 @@ node server.js
 
 # Contributing:
 
-undefined
+Meg Meyers TA
 
 # Tests:
 
